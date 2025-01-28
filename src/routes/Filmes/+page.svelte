@@ -72,13 +72,7 @@
                     <span class="badge text-bg-secondary mx-1">{idade}</span>
                   {/each}
                 </p>
-                <a 
-                  href={filme.referência} 
-                  class="btn btn-primary" 
-                  target="_blank" 
-                  rel="noopener noreferrer">
-                  Assistir IMDB
-                </a>
+            
               </div>
             </div>
           </div>
